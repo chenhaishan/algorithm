@@ -1,0 +1,9 @@
+Simplify Parallelism with a Scalable Parallel Model
+
+Intel® Threading Building Blocks (Intel® TBB) 4.4 is a widely used, award-winning C++ library for creating high performance, scalable parallel applications.
+
+    Enhance Productivity and Reliability - Specify tasks instead of manipulating threads. Intel TBB maps your logical tasks onto threads with full support for nested parallelism
+    Gain Performance Advantage - Intel TBB uses proven, efficient parallel patterns and it also uses work stealing to support the load balance of unknown execution time for tasks.
+    Portability and Compatibility – Open-sourced and license versions available on Linux*, Windows*, OS X*, and Android*. It is compatible with multiple compilers and Intel compatible processors including Intel® Atom™, Intel® Core™, Intel® Xeon® processors, and Intel® Xeon Phi™ coprocessors.
+    Flow graph feature allows developers to easily express dependency and data flow graphs.
+
